@@ -29,7 +29,7 @@ require (
 	github.com/gohugoio/locales v0.14.0
 	github.com/gohugoio/localescompressed v0.14.0
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.8
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.1
 	github.com/kylelemons/godebug v1.1.0
@@ -60,11 +60,11 @@ require (
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
 	gocloud.dev v0.20.0
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
-	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
+	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
 	golang.org/x/text v0.3.7
-	golang.org/x/tools v0.1.9 // indirect
-	google.golang.org/api v0.63.0
+	golang.org/x/tools v0.1.9
+	google.golang.org/api v0.91.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
